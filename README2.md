@@ -16,7 +16,7 @@ sudo apt install pyrcc5
 
 ## Qgis
 
-Configuration de PyCharm pour le développement 
+Configuration de PyCharm pour le développement [^sds]
 
 [d]: www.google.fr	"Coucou"
 
@@ -28,7 +28,7 @@ e plugin Qgis
 
 qdgfS
 
-[^]: <QSD
+[^sds]: <QSD
 
 G
 
