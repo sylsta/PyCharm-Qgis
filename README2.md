@@ -3,12 +3,17 @@
 sudo apt install pyrcc5
 ```
 
-# m-Qgis
+
+
+[TOC]
+
+
+
+## Qgis
+
 Configuration de PyCharm pour le développement de plugin Qgis
 
-[^QS]: QDSCD
-
-
+## QSDF
 
 ![coucou](images/python_remote_debugger.png)
 
