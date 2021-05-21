@@ -10,9 +10,6 @@ sudo apt install pyrcc5
 
 
 
-[TOC]
-
-![0190321_093635](/images/20190321_093635-1564753027965.jpg)
 
 ## Qgis
 
